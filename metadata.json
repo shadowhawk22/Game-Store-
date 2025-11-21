@@ -1,0 +1,6 @@
+{
+  "name": "Game Store Pre-order System",
+  "description": "A system to manage and track customer pre-orders for games, comics, and merchandise. Includes receipt printing functionality.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
